@@ -1,4 +1,4 @@
-module my_enumerable
+module My_enumerable
 
   def all?
     list.each do |i|
