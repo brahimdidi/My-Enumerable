@@ -1,14 +1,14 @@
 module my_enumerable
 
   def all?
-    each do |i|
+    list.each do |i|
       return false unless yield i
     end
     true
   end
 
   def any?
-    each do |i|
+    list.each do |i|
       return true if yield i
     end
     true
@@ -16,7 +16,7 @@ module my_enumerable
 
   def filter
     result = []
-    each do |item|
+    list.each do |item|
       result << item if yield item
     end
     result
