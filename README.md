@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+My Enumerable
 
 > Description the project.
-
+IN this project Using Ruby I will create a class MyList and a module MyEnumerable.The module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages Ruby
+- Frameworks none
+- Technologies used  Vs Code
 
 ## Live Demo (if available)
 
@@ -46,11 +47,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
